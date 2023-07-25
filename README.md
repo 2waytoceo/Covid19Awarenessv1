@@ -5,6 +5,7 @@ and activities taking place related to corona.
 In short, it is the go-to website for anyone who wants information related to corona and its updates.
 
 Sample Website: [`Click Here`](https://2waytoceo.github.io/Covid19Awarenessv1/)
+
 Created By:
 
 ### Karan Thanage -
